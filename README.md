@@ -12,3 +12,14 @@ To make the readers notice that the article might be old, just put this code.
 
 This code fragment will render 'This article might be too old.' after 6 months.
 
+***
+
+### Embed tweet
+
+`tweet.rb` is a simple Liquid Tag to embed a tweet. 
+
+Each tweet has unique ID like 464180168303456256. By using this ID and this custom Liquid tag, we can easily embed tweet by markdown.
+
+	{% tweet 464180168303456256 %}
+
+That's it!
