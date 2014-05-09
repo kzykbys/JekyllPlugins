@@ -12,6 +12,8 @@ To make the readers notice that the article might be old, just put this code.
 
 This code fragment will render 'This article might be too old.' after 6 months.
 
+[Blog article about this plugin](http://blog.kazuya.co/ruby/2014/04/28/jekyll-plugin-deprecate-keeper-en.html)
+
 ***
 
 ### Embed tweet
@@ -23,3 +25,5 @@ Each tweet has unique ID like 464180168303456256. By using this ID and this cust
 	{% tweet 464180168303456256 %}
 
 That's it!
+
+[Blog article about this plugin](http://blog.kazuya.co/ruby/2014/05/07/embed-twitter-plugin-en.html)
